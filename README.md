@@ -1,20 +1,38 @@
 <h1 align="center">Hello 👋, moi c’est Axel (ChtiAxel)</h1>
 
-<h3 align="center">Développement web, applications et projets informatiques</h3>
+<h3 align="center">Étudiant en BUT 3 Informatique à l’IUT de Calais | Développement web, applications et projets informatiques</h3>
 
 <p align="center">
-  Je m’intéresse à la création de projets utiles, de l’interface utilisateur jusqu’aux services qui la font fonctionner. Sur GitHub, je partage notamment des projets autour du développement web, de l’intelligence artificielle locale, des applications mobiles et des travaux de programmation.
+  Étudiant en BUT 3 Informatique à l’IUT de Calais, je m’intéresse à la création de projets utiles, de l’interface utilisateur jusqu’aux services qui la font fonctionner. Je travaille sur des projets web, des applications, l’intelligence artificielle locale et la programmation réseau.
 </p>
 
 <p align="center">
+  🎯 <strong>À la recherche d’un stage de 14 à 16 semaines en informatique</strong>, orienté développement web et conception d’applications.
+</p>
+
+<p align="center">
+  <a href="mailto:axelnave.pro@gmail.com">
+    <img alt="E-mail" src="https://img.shields.io/badge/E--mail-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/ChtiAxel">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ChtiAxel-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/axel-nave-13baa03a4/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Axel_Nave-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-aelx59_-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Technologies utilisées
+### 🛠️ Compétences clés
+
+- **Développement :** Python, TypeScript, Vue.js, C, Dart, PHP.
+- **Web et temps réel :** interfaces web, API REST, Socket.IO.
+- **IA et données :** intégration d’un modèle local avec Ollama, génération de requêtes SQL, MariaDB, PostgreSQL.
+- **Conteneurisation et qualité :** Docker, Docker Compose, tests avec Pytest, documentation avec MkDocs.
+
+### 💻 Technologies utilisées
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
